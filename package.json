@@ -1,5 +1,5 @@
 {
-  "name": "@gradeup/react-motion-drawer",
+  "name": "@actonate/react-motion-drawer",
   "version": "3.1.4",
   "description": "Navigation drawer built with the awesome react-motion and react-hammerjs",
   "scripts": {
